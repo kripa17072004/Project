@@ -1,5 +1,5 @@
 # Project
-Sure, here’s a neat breakdown for your **Personal Expense Tracker** project in Python with CSV support — perfect for documentation or a submission!
+Sure, here’s a neat breakdown for your **Personal Expense Tracker** project in Python with CSV support!
 
 ---
 
